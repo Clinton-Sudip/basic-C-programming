@@ -1,0 +1,4 @@
+Enter your number of checkpoints, each checkpoints has 2 bumps
+Where do you want to add your 'STOP' signal?, Note: STOP won't work in the middle checkpoint
+0 0 0 0 break
+0 means faced bump

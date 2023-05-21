@@ -1,0 +1,4 @@
+Address of x: 0061FF18
+Value of p: 0061FF18
+Accessing the value of x: 10
+Updated value of x: 500
